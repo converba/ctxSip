@@ -1,6 +1,7 @@
 ._*
+.idea
 .DS_Store
-phone/scripts/config.js
+phone/js/config.js
 .codekit-cache/
 config.codekit
 *.sublime-project
